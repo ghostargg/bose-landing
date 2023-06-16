@@ -2,4 +2,4 @@
 
 Createad with HTML, SCSS and JavaScript.
 
-[DEMO LINK](https://ghostargg.github.io/<repo_name>/)
+[DEMO LINK](https://ghostargg.github.io/bose-landing/)
